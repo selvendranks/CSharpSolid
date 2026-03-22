@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.36616.10 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{7F95336E-AE45-4FF8-AE7F-1ED50E5A093C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\Abstraction.csproj", "{447FAF67-2A32-4F94-AF79-DB23EEB4FE94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{719C4674-79E8-4CD7-B991-325D3C4D387A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7F95336E-AE45-4FF8-AE7F-1ED50E5A093C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F95336E-AE45-4FF8-AE7F-1ED50E5A093C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F95336E-AE45-4FF8-AE7F-1ED50E5A093C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{447FAF67-2A32-4F94-AF79-DB23EEB4FE94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447FAF67-2A32-4F94-AF79-DB23EEB4FE94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447FAF67-2A32-4F94-AF79-DB23EEB4FE94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447FAF67-2A32-4F94-AF79-DB23EEB4FE94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{719C4674-79E8-4CD7-B991-325D3C4D387A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719C4674-79E8-4CD7-B991-325D3C4D387A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719C4674-79E8-4CD7-B991-325D3C4D387A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719C4674-79E8-4CD7-B991-325D3C4D387A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

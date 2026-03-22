@@ -9,6 +9,6 @@ namespace Inheritance
     internal class Car : Vehicle
     {
         public int NumberofDoors { get; set; }
-        public int NumberofCars { get; set; }
+        public int NumberofWheels { get; set; }
     }
 }
