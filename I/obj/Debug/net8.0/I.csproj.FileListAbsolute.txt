@@ -1,0 +1,15 @@
+C:\Users\selve\source\repos\SOLID\I\bin\Debug\net8.0\I.exe
+C:\Users\selve\source\repos\SOLID\I\bin\Debug\net8.0\I.deps.json
+C:\Users\selve\source\repos\SOLID\I\bin\Debug\net8.0\I.runtimeconfig.json
+C:\Users\selve\source\repos\SOLID\I\bin\Debug\net8.0\I.dll
+C:\Users\selve\source\repos\SOLID\I\bin\Debug\net8.0\I.pdb
+C:\Users\selve\source\repos\SOLID\I\obj\Debug\net8.0\I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selve\source\repos\SOLID\I\obj\Debug\net8.0\I.AssemblyInfoInputs.cache
+C:\Users\selve\source\repos\SOLID\I\obj\Debug\net8.0\I.AssemblyInfo.cs
+C:\Users\selve\source\repos\SOLID\I\obj\Debug\net8.0\I.csproj.CoreCompileInputs.cache
+C:\Users\selve\source\repos\SOLID\I\obj\Debug\net8.0\I.sourcelink.json
+C:\Users\selve\source\repos\SOLID\I\obj\Debug\net8.0\I.dll
+C:\Users\selve\source\repos\SOLID\I\obj\Debug\net8.0\refint\I.dll
+C:\Users\selve\source\repos\SOLID\I\obj\Debug\net8.0\I.pdb
+C:\Users\selve\source\repos\SOLID\I\obj\Debug\net8.0\I.genruntimeconfig.cache
+C:\Users\selve\source\repos\SOLID\I\obj\Debug\net8.0\ref\I.dll
