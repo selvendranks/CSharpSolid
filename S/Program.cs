@@ -6,3 +6,6 @@ using S;
 User user  = new User();
 user.UserName = "Donkey";
 user.Email = "donkey47@gmail.com";
+
+UserService userService = new UserService();
+userService.Register(user);
