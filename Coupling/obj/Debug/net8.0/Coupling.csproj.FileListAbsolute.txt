@@ -1,0 +1,15 @@
+C:\Users\selve\source\repos\SOLID\Coupling\bin\Debug\net8.0\Coupling.exe
+C:\Users\selve\source\repos\SOLID\Coupling\bin\Debug\net8.0\Coupling.deps.json
+C:\Users\selve\source\repos\SOLID\Coupling\bin\Debug\net8.0\Coupling.runtimeconfig.json
+C:\Users\selve\source\repos\SOLID\Coupling\bin\Debug\net8.0\Coupling.dll
+C:\Users\selve\source\repos\SOLID\Coupling\bin\Debug\net8.0\Coupling.pdb
+C:\Users\selve\source\repos\SOLID\Coupling\obj\Debug\net8.0\Coupling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selve\source\repos\SOLID\Coupling\obj\Debug\net8.0\Coupling.AssemblyInfoInputs.cache
+C:\Users\selve\source\repos\SOLID\Coupling\obj\Debug\net8.0\Coupling.AssemblyInfo.cs
+C:\Users\selve\source\repos\SOLID\Coupling\obj\Debug\net8.0\Coupling.csproj.CoreCompileInputs.cache
+C:\Users\selve\source\repos\SOLID\Coupling\obj\Debug\net8.0\Coupling.sourcelink.json
+C:\Users\selve\source\repos\SOLID\Coupling\obj\Debug\net8.0\Coupling.dll
+C:\Users\selve\source\repos\SOLID\Coupling\obj\Debug\net8.0\refint\Coupling.dll
+C:\Users\selve\source\repos\SOLID\Coupling\obj\Debug\net8.0\Coupling.pdb
+C:\Users\selve\source\repos\SOLID\Coupling\obj\Debug\net8.0\Coupling.genruntimeconfig.cache
+C:\Users\selve\source\repos\SOLID\Coupling\obj\Debug\net8.0\ref\Coupling.dll
