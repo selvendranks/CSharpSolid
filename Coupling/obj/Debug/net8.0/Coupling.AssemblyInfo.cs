@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Coupling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+651ffb430287f10e1ec26da2c0c2654e224f7fdb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b126d2fb711a86b7155776c52e8c31962d39443")]
 [assembly: System.Reflection.AssemblyProductAttribute("Coupling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Coupling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
