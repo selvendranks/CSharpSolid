@@ -1,0 +1,15 @@
+C:\Users\selve\source\repos\SOLID\DelegateBasic\bin\Debug\net8.0\DelegateBasic.exe
+C:\Users\selve\source\repos\SOLID\DelegateBasic\bin\Debug\net8.0\DelegateBasic.deps.json
+C:\Users\selve\source\repos\SOLID\DelegateBasic\bin\Debug\net8.0\DelegateBasic.runtimeconfig.json
+C:\Users\selve\source\repos\SOLID\DelegateBasic\bin\Debug\net8.0\DelegateBasic.dll
+C:\Users\selve\source\repos\SOLID\DelegateBasic\bin\Debug\net8.0\DelegateBasic.pdb
+C:\Users\selve\source\repos\SOLID\DelegateBasic\obj\Debug\net8.0\DelegateBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selve\source\repos\SOLID\DelegateBasic\obj\Debug\net8.0\DelegateBasic.AssemblyInfoInputs.cache
+C:\Users\selve\source\repos\SOLID\DelegateBasic\obj\Debug\net8.0\DelegateBasic.AssemblyInfo.cs
+C:\Users\selve\source\repos\SOLID\DelegateBasic\obj\Debug\net8.0\DelegateBasic.csproj.CoreCompileInputs.cache
+C:\Users\selve\source\repos\SOLID\DelegateBasic\obj\Debug\net8.0\DelegateBasic.sourcelink.json
+C:\Users\selve\source\repos\SOLID\DelegateBasic\obj\Debug\net8.0\DelegateBasic.dll
+C:\Users\selve\source\repos\SOLID\DelegateBasic\obj\Debug\net8.0\refint\DelegateBasic.dll
+C:\Users\selve\source\repos\SOLID\DelegateBasic\obj\Debug\net8.0\DelegateBasic.pdb
+C:\Users\selve\source\repos\SOLID\DelegateBasic\obj\Debug\net8.0\DelegateBasic.genruntimeconfig.cache
+C:\Users\selve\source\repos\SOLID\DelegateBasic\obj\Debug\net8.0\ref\DelegateBasic.dll
